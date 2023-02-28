@@ -1,0 +1,219 @@
+
+TO_CHAR(SYSDATE,'DDMONTHYEARHH:MI:SSAM')                                                      
+----------------------------------------------------------------------------------------------
+28 February  Twenty Twenty-Three 01:31:46 Pm
+
+Connected.
+
+Grant succeeded.
+
+Connected.
+
+Procedure P6Q1 compiled
+
+---------------------------------
+Faculty ID: 1 is Kim Cox, Rank: ASSO.
+Student ID: 1 is Sarah Miller,  birthdate: 85-07-14, class: SR.
+Student ID: 2 is Brian Umato,  birthdate: 85-08-19, class: SR.
+Student ID: 3 is Daniel Black,  birthdate: 82-10-10, class: JR.
+---------------------------------
+Faculty ID: 2 is John Blanchard, Rank: FULL.
+Student ID: 4 is Amanda Mobley,  birthdate: 86-09-24, class: SO.
+---------------------------------
+Faculty ID: 3 is Jerry Williams, Rank: ASST.
+Student ID: 6 is Michael Connoly,  birthdate: 86-12-04, class: FR.
+---------------------------------
+Faculty ID: 4 is Laura Sheng, Rank: INST.
+Student ID: 5 is Ruben Sanchez,  birthdate: 86-11-20, class: SO.
+---------------------------------
+Faculty ID: 5 is Philip Brown, Rank: ASSO.
+
+
+PL/SQL procedure successfully completed.
+
+Connected.
+
+Grant succeeded.
+
+Connected.
+
+Procedure P6Q2 compiled
+
+---------------------------------
+Consultant ID: 100 is Mark Myers.
+Skill description: VB .NET Programming, Certification: Y.
+Skill description: Java Programming, Certification: Y.
+Skill description: Oracle Developer Programming, Certification: Y.
+---------------------------------
+Consultant ID: 101 is Sheila Hernandez.
+Skill description: Project Management, Certification: Y.
+Skill description: Web Application Programming, Certification: Y.
+---------------------------------
+Consultant ID: 102 is Brian Zhang.
+Skill description: VB .NET Programming, Certification: Y.
+Skill description: Oracle Database Administration, Certification: Y.
+---------------------------------
+Consultant ID: 103 is Sarah Carlson.
+Skill description: VB .NET Programming, Certification: Y.
+Skill description: Oracle Developer Programming, Certification: Y.
+Skill description: Windows NT/2000 Network Administration, Certification: Y.
+Skill description: Windows XP Network Administration, Certification: Y.
+---------------------------------
+Consultant ID: 104 is Paul Courtlandt.
+Skill description: Windows NT/2000 Network Administration, Certification: Y.
+Skill description: Windows XP Network Administration, Certification: Y.
+---------------------------------
+Consultant ID: 105 is Janet Park.
+Skill description: COBOL Programming, Certification: Y.
+Skill description: Java Programming, Certification: Y.
+Skill description: Project Management, Certification: Y.
+
+
+PL/SQL procedure successfully completed.
+
+Connected.
+
+Grant succeeded.
+
+Connected.
+
+Procedure P6Q3 compiled
+
+---------------------------------
+Item ID:1 Men's Expedition Parka 3.
+Inventory ID:23, Size: S, Price: 7084,71, Quantity: 114.
+Inventory ID:24, Size: M, Price: 7084,71, Quantity: 17.
+Inventory ID:25, Size: L, Price: 7084,71, Quantity: 0.
+Inventory ID:26, Size: XL, Price: 7084,71, Quantity: 12.
+---------------------------------
+Item ID:2 3-Season Tent 4.
+Inventory ID:1, Size: , Price: 7084,71, Quantity: 16.
+Inventory ID:2, Size: , Price: 7084,71, Quantity: 12.
+---------------------------------
+Item ID:3 Women's Hiking Shorts 1.
+Inventory ID:3, Size: S, Price: 7084,71, Quantity: 150.
+Inventory ID:4, Size: M, Price: 7084,71, Quantity: 147.
+Inventory ID:5, Size: L, Price: 7084,71, Quantity: 0.
+Inventory ID:6, Size: S, Price: 7084,71, Quantity: 139.
+Inventory ID:7, Size: M, Price: 7084,71, Quantity: 137.
+Inventory ID:8, Size: L, Price: 7084,71, Quantity: 115.
+---------------------------------
+Item ID:4 Women's Fleece Pullover 1.
+Inventory ID:9, Size: S, Price: 7084,71, Quantity: 135.
+Inventory ID:10, Size: M, Price: 7084,71, Quantity: 168.
+Inventory ID:11, Size: L, Price: 7084,71, Quantity: 187.
+Inventory ID:12, Size: S, Price: 7084,71, Quantity: 0.
+Inventory ID:13, Size: M, Price: 7084,71, Quantity: 124.
+Inventory ID:14, Size: L, Price: 7084,71, Quantity: 112.
+---------------------------------
+Item ID:5 Children's Beachcomber Sandals 2.
+Inventory ID:15, Size: 10, Price: 7084,71, Quantity: 121.
+Inventory ID:16, Size: 11, Price: 7084,71, Quantity: 111.
+Inventory ID:17, Size: 12, Price: 7084,71, Quantity: 113.
+Inventory ID:18, Size: 1, Price: 7084,71, Quantity: 121.
+Inventory ID:19, Size: 10, Price: 7084,71, Quantity: 148.
+Inventory ID:20, Size: 11, Price: 7084,71, Quantity: 137.
+Inventory ID:21, Size: 12, Price: 7084,71, Quantity: 134.
+Inventory ID:22, Size: 1, Price: 7084,71, Quantity: 123.
+---------------------------------
+Item ID:6 Boy's Surf Shorts 2.
+Inventory ID:27, Size: S, Price: 7084,71, Quantity: 50.
+Inventory ID:28, Size: M, Price: 7084,71, Quantity: 100.
+Inventory ID:29, Size: L, Price: 7084,71, Quantity: 100.
+---------------------------------
+Item ID:7 Girl's Soccer Tee 2.
+Inventory ID:30, Size: S, Price: 7084,71, Quantity: 100.
+Inventory ID:31, Size: M, Price: 7084,71, Quantity: 100.
+Inventory ID:32, Size: L, Price: 7084,71, Quantity: 100.
+
+
+PL/SQL procedure successfully completed.
+
+Connected.
+
+Grant succeeded.
+
+Connected.
+
+Procedure P6Q4 compiled
+
+---------------------------------------
+Item id: 1, Men's Expedition Parka, total value $1013113,53. Category id: 3
+Inventory id: 23, price $7084,71, quantity: 114.
+Inventory id: 24, price $7084,71, quantity: 17.
+Inventory id: 25, price $7084,71, quantity: 0.
+Inventory id: 26, price $7084,71, quantity: 12.
+---------------------------------------
+Item id: 2, 3-Season Tent, total value $198371,88. Category id: 4
+Inventory id: 1, price $7084,71, quantity: 16.
+Inventory id: 2, price $7084,71, quantity: 12.
+---------------------------------------
+Item id: 3, Women's Hiking Shorts, total value $4874280,48. Category id: 1
+Inventory id: 3, price $7084,71, quantity: 150.
+Inventory id: 4, price $7084,71, quantity: 147.
+Inventory id: 5, price $7084,71, quantity: 0.
+Inventory id: 6, price $7084,71, quantity: 139.
+Inventory id: 7, price $7084,71, quantity: 137.
+Inventory id: 8, price $7084,71, quantity: 115.
+---------------------------------------
+Item id: 4, Women's Fleece Pullover, total value $5143499,46. Category id: 1
+Inventory id: 9, price $7084,71, quantity: 135.
+Inventory id: 10, price $7084,71, quantity: 168.
+Inventory id: 11, price $7084,71, quantity: 187.
+Inventory id: 12, price $7084,71, quantity: 0.
+Inventory id: 13, price $7084,71, quantity: 124.
+Inventory id: 14, price $7084,71, quantity: 112.
+---------------------------------------
+Item id: 5, Children's Beachcomber Sandals, total value $7141387,68. Category id: 2
+Inventory id: 15, price $7084,71, quantity: 121.
+Inventory id: 16, price $7084,71, quantity: 111.
+Inventory id: 17, price $7084,71, quantity: 113.
+Inventory id: 18, price $7084,71, quantity: 121.
+Inventory id: 19, price $7084,71, quantity: 148.
+Inventory id: 20, price $7084,71, quantity: 137.
+Inventory id: 21, price $7084,71, quantity: 134.
+Inventory id: 22, price $7084,71, quantity: 123.
+---------------------------------------
+Item id: 6, Boy's Surf Shorts, total value $1771177,5. Category id: 2
+Inventory id: 27, price $7084,71, quantity: 50.
+Inventory id: 28, price $7084,71, quantity: 100.
+Inventory id: 29, price $7084,71, quantity: 100.
+---------------------------------------
+Item id: 7, Girl's Soccer Tee, total value $2125413. Category id: 2
+Inventory id: 30, price $7084,71, quantity: 100.
+Inventory id: 31, price $7084,71, quantity: 100.
+Inventory id: 32, price $7084,71, quantity: 100.
+
+
+PL/SQL procedure successfully completed.
+
+Connected.
+
+Grant succeeded.
+
+Connected.
+
+Procedure P6Q5 compiled
+
+Consultant id: 101, Name: Sheila Hernandez, City: Eau Claire.
+--------------------------------------------------------------------------------------------
+Certification ID: 4, Before: Y, After: Y.
+Certification ID: 5, Before: Y, After: Y.
+
+
+PL/SQL procedure successfully completed.
+
+Consultant id: 100, Name: Mark Myers, City: Eau Claire.
+--------------------------------------------------------------------------------------------
+Certification ID: 1, Before: Y, After: N.
+Certification ID: 3, Before: Y, After: N.
+Certification ID: 6, Before: Y, After: N.
+
+
+PL/SQL procedure successfully completed.
+
+Enter with a valid option, Y or N
+
+
+PL/SQL procedure successfully completed.
+
